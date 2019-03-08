@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{59B1ADDA-AA80-1B5D-21C1-6D306F8A0C1B}|">
+  <MonoDevelop.Ide.ItemProperties.PageCurl__done PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/pagesCurlControl.cs">
+    <Files>
+      <File FileName="Assets/pageCurl.shader" Line="175" Column="38" />
+      <File FileName="Assets/pagesCurlControl.cs" Line="102" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
